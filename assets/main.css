@@ -591,13 +591,6 @@
    BR0.0% additions (minimal)
    ========================== */
 
-/* Hero background swap to festival lifestyle */
-.hero:before{
-  background:linear-gradient(rgba(35,31,32,.80),rgba(35,31,32,.92)),url(https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1920&q=80);
-  background-size:cover;
-  background-position:center;
-}
-
 /* Buttons */
 .cta-button{border:none}
 .cta-button.secondary{
